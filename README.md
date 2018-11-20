@@ -25,7 +25,7 @@ The following files were changed during the implementation:
 #### 1. Project Basics
 
 In this project the C++ was used to program. The project goal is to safely navigate around a virtual highway with other traffic where speed limit is 50MPH. The car should pass slower traffic when possible  and should avoid hitting other cars. The car should be able to make one complete loop around the 6946m highway. The total acceleration limit is 10m/s^2 and jerk limit is 10m/s^3.
-
+Part of functionality were taken from lesson QA video.
 
 
 #### 3. Accuracy
